@@ -1,0 +1,84 @@
+.Main_block{
+  width: 1480px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: linear-gradient(244.18deg, #66269D 6.59%, #44AE6D 85.23%);
+  padding-top: 70px;
+  border: 1px solid #fff;
+}
+.Main_controle_block{
+  width: 100%;
+  height: 915px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 70px;
+}
+.controle_img1{
+  width: 279px;
+  height: 331px;
+  background: url("https://www.figma.com/file/vHTvmLTeg1UgRVHheKgm2e/image/cbeb49667e61382718c4bb357af48dac9579396e");
+  background-size: 100% 100%;
+}
+.controle_text1{
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 100%;
+  letter-spacing: 0%; 
+}
+.controle_names{
+  width: 351px;
+  height: 330px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.controle_name1{
+  font-weight: 700;
+  font-size: 18px ;
+  line-height: 100%;
+  letter-spacing: 0%;  
+  color: #000;
+}
+.controle_item{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background: #fff;
+  border-radius: 20px;
+}
+.controle1{
+  width: 408px;
+  height: 915px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.controle_img2{
+  width: 80px;
+  height: 80px;
+  background: url("https://www.figma.com/file/vHTvmLTeg1UgRVHheKgm2e/image/b11f152d8e174dc8044dadbf854e029b6395152d");
+  background-size: 100% 100%;
+}
+.controle_btn1{
+  width: 252px;
+  height: 65px;
+  background: #66E3FF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 100%;
+  letter-spacing: 0%;  
+  color: #000;
+  border-radius: 20px;
+}
